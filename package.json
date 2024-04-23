@@ -11,6 +11,6 @@
   "license": "ISC",
   "homepage": "https://ducpt91.github.io/speed_limit",
   "dependencies": {
-    "gh-pages": "^2.2.0"
+    "gh-pages": "^5.0.0"
   }
 }
